@@ -1,0 +1,15 @@
+Pedro Picapiedra,612345001,pedro@prehistomail.com
+Vilma Losa,612345002,vilma@dinosauriofan.club
+Juanito Banana,612345003,juanito@platanolandia.net
+Lola Menta,612345004,lola@chiclesabroso.org
+Tomate Frito,612345005,tomate@ketchupmail.com
+Pan Crujiente,612345006,pan@horneado.delicioso
+Sara Salsa,612345007,sara@picantito.lol
+Pepe Pistacho,612345008,pepe@nutemail.nut
+Tina Tornado,612345009,tina@ventarron.cool
+Coco Loco,612345010,coco@islamail.party
+Max Mostaza,612345011,max@salsita.zap
+Ana Banana,612345012,ana@frutal.jaja
+Luis Lombriz,612345013,luis@tierraoscura.garden
+Clara Claraboya,612345014,clara@ventanastransparente.house
+Don Pepino,612345015,pepino@vegetalmania.com
